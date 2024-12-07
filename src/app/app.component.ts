@@ -10,8 +10,8 @@ import { RouterModule } from '@angular/router';
       <h1>Bienvenue sur l'application Angular</h1>
       <nav>
         <a routerLink="/" routerLinkActive="active">Accueil</a>
-        <a routerLink="/professionals" routerLinkActive="active">Professionnels</a>
-        <a routerLink="/clients" routerLinkActive="active">Clients</a>
+        <a routerLink="/appointments" routerLinkActive="active">Liste des Rendez-vous</a>
+        <a routerLink="/appointment-form" routerLinkActive="active">Prendre un Rendez-vous</a>
       </nav>
     </header>
     <main>

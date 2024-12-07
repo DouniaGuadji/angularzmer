@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-home',
   standalone: true,
   template: `
-    <h1>Bienvenue sur la page d'accueil</h1>
+    <h2>Bienvenue sur la page d'accueil</h2>
     <p>Ceci est un test de base pour vérifier que le composant fonctionne.</p>
   `,
 })
